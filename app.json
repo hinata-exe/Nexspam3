@@ -1,5 +1,5 @@
 {
-    "name": "AXEN HERE.",
+    "name": "nex spam.",
     "logo": "https://te.legra.ph/file/07d39b85c6cea32f15259.jpg",
     "keywords": [
         "telegram",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/ItZxSTaR/XBOTS",
+    "repository": "https://github.com/hinata-exe/Nexspam3",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
