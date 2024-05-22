@@ -31,7 +31,7 @@ SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="5518687442
 for x in ALTRON:
     SUDO_USERS.append(x)
 OWNER_ID = int(getenv("OWNER_ID", default="5518687442"))
-SUDO_USERS.append(OWNER_ID)
+SUDO_USERS.append(OWNER_ID) 
 
 
 # ------------- CLIENTS -------------
